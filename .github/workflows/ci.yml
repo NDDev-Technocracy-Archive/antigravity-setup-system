@@ -47,7 +47,7 @@ jobs:
     name: supply-chain
     permissions:
       contents: read
-    uses: NDDev-Technocracy-Archive/ci-workflows-20261014/.github/workflows/rust-supply-chain.yml@93eeb2a65e98a29e9dbff7909f67c6419abff046 # commit:93eeb2a65e98a29e9dbff7909f67c6419abff046
+    uses: NDDev-Technocracy-Archive/ci-workflows-20261014/.github/workflows/rust-supply-chain.yml@4b53916e8a7b1c2dd220766b6dd4170a843f622e # commit:93eeb2a65e98a29e9dbff7909f67c6419abff046
     with:
       enable_deny: true
       enable_audit: true
